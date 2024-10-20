@@ -1,0 +1,24 @@
+# QDTH Prescription Refusal Project
+
+## Directory Structure
+```
+├── README.md          <- The top-level README for developers using this project.
+├── data
+│   ├── FullData    <- zip files of the raw data
+│
+├── notebooks         <- Jupyter notebooks detailing the process process
+│
+├── requirements.txt   <- The requirements file for reproducing the analysis environment
+│
+├──  src   <- Source code for this project.
+│    ├── pipeline.py             <- The pipeline for the project
+│  
+```
+
+
+## Setup
+.env file with the OpenAI API key
+OPENAI_API_KEY=<your_openai_api_key>
+```
+pip install -r requirements.txt
+```
