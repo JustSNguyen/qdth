@@ -1,1 +1,5 @@
 .env
+
+FullData/
+
+validation_result.csv
